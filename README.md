@@ -1,2 +1,7 @@
-# moneygowhere_v2
+# MoneyGoWhere
 Financial management tracking tool. Starting first with expense management.
+
+1. Create a telegram bot to login, add transactions, add / remove new categories
+
+###To Do
+1. Sync existing transactions from spendee app (1 time migration)
